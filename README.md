@@ -104,4 +104,4 @@ tc connect localhost 5000 Alice mypassword
 
 ## License
 
-This project is provided as-is for educational purposes.
+MIT License.
